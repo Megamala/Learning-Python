@@ -1,4 +1,3 @@
-#! C:\Python31\python
 
 
 def main():
